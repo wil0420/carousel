@@ -196,7 +196,7 @@ body{
 
 .box {
   position: absolute;
-  padding: 0.5em 0.8em;
+  padding: 0.3em 0.6em;
   border-radius: 100%;
   background-color: #fff;
   right: 0;
@@ -206,7 +206,7 @@ body{
     text-align: center;
     -webkit-animation: heartbeat 0.5s cubic-bezier(0.245, 0.325, 0.51, 1.305) infinite alternate;
     animation: heartbeat 0.5s cubic-bezier(0.245, 0.325, 0.51, 1.305) infinite alternate;
-    font-size: 25px;
+    font-size: 20px;
     color: #ca1c06;
 }
 @-webkit-keyframes heartbeat {
